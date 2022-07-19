@@ -24,3 +24,14 @@ I am a Computer Science student, my principals interests are algorithms and web 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.haskell.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a>
 </p>
+
+## Certificates
+- [Introduction to Web Development - Google](https://learndigital.withgoogle.com/activate/validate-certificate-code) **ID: MBL VDN B25**
+- [Web Development - BEDU & Santander](./resources/SUDW2002-479.pdf)
+- [Data Analytics](https://www.coursera.org/account/accomplishments/certificate/EER7CG8EBFUN)
+
+## Projects
+
+### Web Development
+- [Rembe](https://github.com/JPYamamoto/rembe)
+- [Nutrifood](https://github.com/JulsVazquez/nutrifood)
