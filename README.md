@@ -35,3 +35,10 @@ I am a Computer Science student, my principals interests are algorithms and web 
 ### Web Development
 - [Rembe](https://github.com/JPYamamoto/rembe)
 - [Nutrifood](https://github.com/JulsVazquez/nutrifood)
+
+## Connect With Me:
+<p align="left">
+<a href="https://linkedin.com/in/julsvazquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julsvazquez" height="30" width="40" /></a>
+<a href="https://twitter.com/_JulsVazquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="julsvazquez" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_julsvazquez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="no.compila" height="30" width="40" /></a>
+</p>
