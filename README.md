@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋!</h1>
+<h1 align="center">Hello World 👋!</h1>
 
 > Computer Scientist.   
 > FrontEnd Developer (Intership) - CTIN.    
@@ -28,7 +28,7 @@ I am a Computer Science student, my principals interests are algorithms and web 
 ## Certificates
 - [Introduction to Web Development - Google](https://learndigital.withgoogle.com/activate/validate-certificate-code) **ID: MBL VDN B25**
 - [Web Development - BEDU & Santander](./resources/SUDW2002-479.pdf)
-- [Data Analytics](https://www.coursera.org/account/accomplishments/certificate/EER7CG8EBFUN)
+- [Data Analytics - Google](https://www.coursera.org/account/accomplishments/certificate/EER7CG8EBFUN)
 
 ## Projects
 
