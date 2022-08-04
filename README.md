@@ -42,6 +42,7 @@ I am a Computer Science student, my principals interests are algorithms and web 
 ### Web Development
 - [Rembe](https://github.com/JPYamamoto/rembe)
 - [Nutrifood](https://github.com/JulsVazquez/nutrifood)
+- [Barcode Inventory](https://github.com/JulsVazquez/barcode-inventory) ___(In progress)___
 
 ## Connect With Me:
 <p align="left">
