@@ -25,6 +25,13 @@ I am a Computer Science student, my principals interests are algorithms and web 
 <a href="https://www.haskell.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a>
 </p>
 
+## Learning
+<p align="left"> 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank"> <img src="https://static.getpostman.com/assets/pm-logo-1.svg" alt="postman" width="40" height="40"/> </a>
+</p>
+
 ## Certificates
 - [Introduction to Web Development - Google](https://learndigital.withgoogle.com/activate/validate-certificate-code) **ID: MBL VDN B25**
 - [Web Development - BEDU & Santander](./resources/SUDW2002-479.pdf)
