@@ -1,8 +1,8 @@
 <h1 align="center">Hello World 👋!</h1>
 
-> Computer Scientist.   
-> FrontEnd Developer (Intership) - CTIN.    
-> Facultad de Ciencias - UNAM.  
+> Computer Scientist Student. 
+> I worked as FrontEnd Developer (Intership) at CTIN.    
+> Facultad de Ciencias at UNAM.  
 > CDMX, Mexico. 
 
 Welcome, I'm Julio Vázquez Alvarez.
@@ -12,6 +12,7 @@ I am a Computer Science student, my principals interests are algorithms and web 
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
@@ -23,13 +24,13 @@ I am a Computer Science student, my principals interests are algorithms and web 
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.haskell.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank"> <img src="https://static.getpostman.com/assets/pm-logo-1.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
 ## Learning
 <p align="left"> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://static.getpostman.com/assets/pm-logo-1.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
 ## Certificates
