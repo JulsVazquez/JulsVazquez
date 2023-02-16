@@ -1,6 +1,6 @@
 <h1 align="center">Hello World 👋!</h1>
 
-> Computer Scientist Student. 
+> Computer Scientist. 
 > I worked as FrontEnd Developer (Intership) at CTIN.    
 > Facultad de Ciencias at UNAM.  
 > CDMX, Mexico. 
