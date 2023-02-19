@@ -1,7 +1,8 @@
 <h1 align="center">Hello World 👋!</h1>
 
-> Computer Scientist. 
-> I worked as FrontEnd Developer (Intership) at CTIN.    
+> Computer Scientist.
+> 
+> I work on [Pulpo](https://www.getpulpo.com/) as Trainee IT, Backend Developer.    
 > Facultad de Ciencias at UNAM.  
 > CDMX, Mexico. 
 
