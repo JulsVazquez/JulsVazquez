@@ -7,7 +7,7 @@
 > CDMX, Mexico. 
 
 Welcome, I'm Julio Vázquez Alvarez.
-I am a Computer Science student, my principals interests are algorithms and web development.
+My principals interests are algorithms and web development.
 
 ## Languages and Tools
 <p align="left"> 
