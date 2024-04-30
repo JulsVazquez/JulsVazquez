@@ -2,7 +2,7 @@
 
 > Computer Scientist.
 > 
-> I work on [Pulpo](https://www.getpulpo.com/) as Backend Developer.    
+> I work at [Pulpo](https://www.getpulpo.com/) as Backend Developer.    
 > Facultad de Ciencias at UNAM.  
 > CDMX, Mexico. 
 
