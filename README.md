@@ -30,13 +30,13 @@ My principals interests are algorithms and web development.
 <a href="https://www.postman.com/" target="_blank"> <img src="https://static.getpostman.com/assets/pm-logo-1.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://nestjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nest-js" width="40" height="40"/></a>
+<a href="https://nestjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nest-js" width="40" height="40"/></a>
 <a href="https://aws.amazon.com/es/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/></a>
 </p>
 
 ## Learning
 <p align="left">
-<a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
+<a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a>
 </p>
 
 ## Certificates
