@@ -2,13 +2,13 @@
 
 > Computer Scientist.
 > 
-> I work at [Pulpo](https://www.getpulpo.com/) as Backend Developer.    
-> Facultad de Ciencias at UNAM.  
-> CDMX, Mexico. 
+> I work as a Backend Developer at Pulpo.
+> 
+> Studied at the Faculty of Sciences, UNAM.
+> 
+> Mexico City, Mexico.
 
-Welcome, I'm Julio Vázquez Alvarez.
-
-My principals interests are algorithms and web development.
+> My main interests are algorithms and web development.
 
 ## Languages and Tools
 <p align="left"> 
