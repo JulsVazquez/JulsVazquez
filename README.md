@@ -1,14 +1,16 @@
 <h1 align="center">Hello World 👋!</h1>
 
-> Computer Scientist.
+> B.S Computer Science
 > 
-> I work as a Backend Developer at Pulpo.
+> I work as a Backend Developer at [McDonald's Global Techonology](https://careers.mcdonalds.com/global-technology)
 > 
-> Studied at the Faculty of Sciences, UNAM.
+> Faculty of Sciences, UNAM.
 > 
 > Mexico City, Mexico.
-
-> My main interests are algorithms and web development.
+>
+> My main interests in computer are: databases, algorithms, clean architecture, backend, large-data systems.
+>
+> A pianist learner
 
 ## Languages and Tools
 <p align="left"> 
