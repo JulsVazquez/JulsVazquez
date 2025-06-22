@@ -2,7 +2,7 @@
 
 > B.S Computer Science
 > 
-> I work as a Backend Developer at [McDonald's Global Techonology](https://careers.mcdonalds.com/global-technology)
+> I work as a Software Engineer at [McDonald's Global Techonology](https://careers.mcdonalds.com/global-technology)
 > 
 > Faculty of Sciences, UNAM.
 > 
