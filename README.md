@@ -39,7 +39,7 @@
 <a href="https://helm.sh/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/helm/helm-line.svg" alt="helm" width="40" height="40"/> </a>  
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.cloudflare.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cloudflare/cloudflare-original-wordmark.svg" alt="cloudflare" width="40" height="40"/></a>
-<a href="https://www.atlassian.com/es/software/jira" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/></a>
 <a href="https://www.atlassian.com/software/confluence" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/confluence/confluence-original-wordmark.svg" alt="confluence" width="40" height="40"/></a>
 <a href="https://junit.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/junit/junit-line-wordmark.svg" alt="junit5" width="40" height="40"/></a>
 <a href="https://playwright.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40"/></a>
