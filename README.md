@@ -56,6 +56,7 @@
 <p align="left">
 <a href="https://www.rust-zxlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a>
 <a href="https://webassembly.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/wasm/wasm-original-wordmark.svg" alt="web-assembly" width="40" height="40"/> </a>
+<a href="https://developer.hashicorp.com/terraform" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/> </a>
 </p>
 
 ## Certificates
